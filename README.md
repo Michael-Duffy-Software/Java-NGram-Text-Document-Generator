@@ -6,6 +6,10 @@
 
 This application allows the user to generate a CSV file containing the frequency of occurrences of ngrams in a chosen text file. The app utilises a menu navigation allowing the user to change settings to specifie the input and output file details and to select the ngram size.
 
+### **What Is An N-Gram**
+
+An N-Gram is a a sequency of characters of size n taken from a text document. An example of size 3 n-grams taken from the sentance "This is a sentance" would be "thi, his, isi, sis, isa" etc.
+
 
 ### **Project Details**
 - Application allows user to navigate through console menu.
@@ -47,10 +51,10 @@ In addition to exporting a CSV file the app prints a report after completion of 
 - Eclipse
 
 ### **Text Document Input**
-![Table](/assets/images/ScreenshotofAllAlgorithmResults.png)
+![Table](/images/inputfile.png)
 
 ### **Console Output**
-![Table](/assets/images/ScreenshotofAllAlgorithmResults.png)
+![Table](/images/consoleout.png)
 
 ### **CSV Output**
-![Graph](/assets/images/GraphComparingAllAlgorithms.png)
+![Graph](/images/outputfile.png)
