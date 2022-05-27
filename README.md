@@ -8,7 +8,7 @@ This application allows the user to generate a CSV file containing the frequency
 
 ### **What Is An N-Gram**
 
-An N-Gram is a a sequency of characters of size n taken from a text document. An example of size 3 n-grams taken from the sentance "This is a sentance" would be "thi, his, isi, sis, isa" etc.
+An N-Gram is a a sequency of characters of size n taken from a text document. An example of size 3 n-grams taken from the sentance "This is a sentence" would be "thi, his, isi, sis, isa" etc.
 
 
 ### **Project Details**
